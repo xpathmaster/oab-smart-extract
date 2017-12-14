@@ -15,10 +15,10 @@ cd libmspack/libmspack/
 make 
 make install
 ```
-Install python ntlm-auth support
+Install python requests_ntlm 
 
 ```
-pip install ntlm-auth
+pip install requests_ntlm
 ```
 
 
